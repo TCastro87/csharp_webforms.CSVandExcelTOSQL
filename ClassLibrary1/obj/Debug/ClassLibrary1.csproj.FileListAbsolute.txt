@@ -1,0 +1,6 @@
+F:\Nuvem\Dropbox\A3 - Documentos\03_Carreira\03CLOSEUP INTERNACIONAL - code vsts\Projetos\EFV_toSQL\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+F:\Nuvem\Dropbox\A3 - Documentos\03_Carreira\03CLOSEUP INTERNACIONAL - code vsts\Projetos\EFV_toSQL\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+F:\Nuvem\Dropbox\A3 - Documentos\03_Carreira\03CLOSEUP INTERNACIONAL - code vsts\Projetos\EFV_toSQL\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+F:\Nuvem\Dropbox\A3 - Documentos\03_Carreira\03CLOSEUP INTERNACIONAL - code vsts\Projetos\EFV_toSQL\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+F:\Nuvem\Dropbox\A3 - Documentos\03_Carreira\03CLOSEUP INTERNACIONAL - code vsts\Projetos\EFV_toSQL\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+F:\Nuvem\Dropbox\A3 - Documentos\03_Carreira\03CLOSEUP INTERNACIONAL - code vsts\Projetos\EFV_toSQL\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

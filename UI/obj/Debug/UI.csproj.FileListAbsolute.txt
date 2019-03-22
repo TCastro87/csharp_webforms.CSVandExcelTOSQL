@@ -1,0 +1,68 @@
+C:\Users\tcastro\Desktop\EFV_toSQL\UI\bin\roslyn\csc.exe
+C:\Users\tcastro\Desktop\EFV_toSQL\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tcastro\Desktop\EFV_toSQL\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tcastro\Desktop\EFV_toSQL\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tcastro\Desktop\EFV_toSQL\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tcastro\Desktop\EFV_toSQL\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tcastro\Desktop\EFV_toSQL\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tcastro\Desktop\EFV_toSQL\UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tcastro\Desktop\EFV_toSQL\UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tcastro\Desktop\EFV_toSQL\UI\bin\roslyn\vbc.exe
+C:\Users\tcastro\Desktop\EFV_toSQL\UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\tcastro\Desktop\EFV_toSQL\UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tcastro\Desktop\EFV_toSQL\UI\bin\UI.dll.config
+C:\Users\tcastro\Desktop\EFV_toSQL\UI\bin\UI.dll
+C:\Users\tcastro\Desktop\EFV_toSQL\UI\bin\UI.pdb
+C:\Users\tcastro\Desktop\EFV_toSQL\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tcastro\Desktop\EFV_toSQL\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tcastro\Desktop\EFV_toSQL\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\tcastro\Desktop\EFV_toSQL\UI\obj\Debug\UI.dll
+C:\Users\tcastro\Desktop\EFV_toSQL\UI\obj\Debug\UI.pdb
+C:\Users\tcastro\Desktop\EFV_toSQL\UI\bin\EPPlus.dll
+C:\Users\tcastro\Desktop\EFV_toSQL\UI\bin\EPPlus.xml
+F:\Nuvem\Dropbox\A3 - Documentos\03_Carreira\03CLOSEUP INTERNACIONAL - code vsts\Projetos\EFV_toSQL\UI\bin\roslyn\csc.exe
+F:\Nuvem\Dropbox\A3 - Documentos\03_Carreira\03CLOSEUP INTERNACIONAL - code vsts\Projetos\EFV_toSQL\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Nuvem\Dropbox\A3 - Documentos\03_Carreira\03CLOSEUP INTERNACIONAL - code vsts\Projetos\EFV_toSQL\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Nuvem\Dropbox\A3 - Documentos\03_Carreira\03CLOSEUP INTERNACIONAL - code vsts\Projetos\EFV_toSQL\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Nuvem\Dropbox\A3 - Documentos\03_Carreira\03CLOSEUP INTERNACIONAL - code vsts\Projetos\EFV_toSQL\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Nuvem\Dropbox\A3 - Documentos\03_Carreira\03CLOSEUP INTERNACIONAL - code vsts\Projetos\EFV_toSQL\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Nuvem\Dropbox\A3 - Documentos\03_Carreira\03CLOSEUP INTERNACIONAL - code vsts\Projetos\EFV_toSQL\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Nuvem\Dropbox\A3 - Documentos\03_Carreira\03CLOSEUP INTERNACIONAL - code vsts\Projetos\EFV_toSQL\UI\bin\roslyn\System.Collections.Immutable.dll
+F:\Nuvem\Dropbox\A3 - Documentos\03_Carreira\03CLOSEUP INTERNACIONAL - code vsts\Projetos\EFV_toSQL\UI\bin\roslyn\System.Reflection.Metadata.dll
+F:\Nuvem\Dropbox\A3 - Documentos\03_Carreira\03CLOSEUP INTERNACIONAL - code vsts\Projetos\EFV_toSQL\UI\bin\roslyn\vbc.exe
+F:\Nuvem\Dropbox\A3 - Documentos\03_Carreira\03CLOSEUP INTERNACIONAL - code vsts\Projetos\EFV_toSQL\UI\bin\roslyn\VBCSCompiler.exe
+F:\Nuvem\Dropbox\A3 - Documentos\03_Carreira\03CLOSEUP INTERNACIONAL - code vsts\Projetos\EFV_toSQL\UI\bin\roslyn\VBCSCompiler.exe.config
+F:\Nuvem\Dropbox\A3 - Documentos\03_Carreira\03CLOSEUP INTERNACIONAL - code vsts\Projetos\EFV_toSQL\UI\bin\UI.dll.config
+F:\Nuvem\Dropbox\A3 - Documentos\03_Carreira\03CLOSEUP INTERNACIONAL - code vsts\Projetos\EFV_toSQL\UI\bin\UI.dll
+F:\Nuvem\Dropbox\A3 - Documentos\03_Carreira\03CLOSEUP INTERNACIONAL - code vsts\Projetos\EFV_toSQL\UI\bin\UI.pdb
+F:\Nuvem\Dropbox\A3 - Documentos\03_Carreira\03CLOSEUP INTERNACIONAL - code vsts\Projetos\EFV_toSQL\UI\bin\EPPlus.dll
+F:\Nuvem\Dropbox\A3 - Documentos\03_Carreira\03CLOSEUP INTERNACIONAL - code vsts\Projetos\EFV_toSQL\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Nuvem\Dropbox\A3 - Documentos\03_Carreira\03CLOSEUP INTERNACIONAL - code vsts\Projetos\EFV_toSQL\UI\bin\EPPlus.xml
+F:\Nuvem\Dropbox\A3 - Documentos\03_Carreira\03CLOSEUP INTERNACIONAL - code vsts\Projetos\EFV_toSQL\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Nuvem\Dropbox\A3 - Documentos\03_Carreira\03CLOSEUP INTERNACIONAL - code vsts\Projetos\EFV_toSQL\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+F:\Nuvem\Dropbox\A3 - Documentos\03_Carreira\03CLOSEUP INTERNACIONAL - code vsts\Projetos\EFV_toSQL\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+F:\Nuvem\Dropbox\A3 - Documentos\03_Carreira\03CLOSEUP INTERNACIONAL - code vsts\Projetos\EFV_toSQL\UI\obj\Debug\UI.dll
+F:\Nuvem\Dropbox\A3 - Documentos\03_Carreira\03CLOSEUP INTERNACIONAL - code vsts\Projetos\EFV_toSQL\UI\obj\Debug\UI.pdb
+C:\Users\Tiago\Desktop\EFV_toSQL\UI\bin\roslyn\csc.exe
+C:\Users\Tiago\Desktop\EFV_toSQL\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tiago\Desktop\EFV_toSQL\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tiago\Desktop\EFV_toSQL\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tiago\Desktop\EFV_toSQL\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tiago\Desktop\EFV_toSQL\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tiago\Desktop\EFV_toSQL\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tiago\Desktop\EFV_toSQL\UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tiago\Desktop\EFV_toSQL\UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tiago\Desktop\EFV_toSQL\UI\bin\roslyn\vbc.exe
+C:\Users\Tiago\Desktop\EFV_toSQL\UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tiago\Desktop\EFV_toSQL\UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tiago\Desktop\EFV_toSQL\UI\bin\UI.dll.config
+C:\Users\Tiago\Desktop\EFV_toSQL\UI\bin\UI.dll
+C:\Users\Tiago\Desktop\EFV_toSQL\UI\bin\UI.pdb
+C:\Users\Tiago\Desktop\EFV_toSQL\UI\bin\EPPlus.dll
+C:\Users\Tiago\Desktop\EFV_toSQL\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tiago\Desktop\EFV_toSQL\UI\bin\EPPlus.xml
+C:\Users\Tiago\Desktop\EFV_toSQL\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tiago\Desktop\EFV_toSQL\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Tiago\Desktop\EFV_toSQL\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\Desktop\EFV_toSQL\UI\obj\Debug\UI.dll
+C:\Users\Tiago\Desktop\EFV_toSQL\UI\obj\Debug\UI.pdb
